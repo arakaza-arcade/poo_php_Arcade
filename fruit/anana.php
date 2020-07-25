@@ -5,7 +5,7 @@ use oop\fruit\fruit\fruit;
 
 class Anana extends fruit{
 
-private $poids=5;
+private $poids=2;
 public function __construct($nom)
 {
     parent::__construct($nom);
