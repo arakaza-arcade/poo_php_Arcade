@@ -21,6 +21,6 @@ return $this->poids;
 
 public function affichage()
 {
-    echo 'le nom du fruit est  '.$this->getNom(). 'avec le poids ' .$this->getNom();
+    echo 'le nom du fruit est  '.$this->getNom(). ' pese ' .$this->getNom(). 'kg';
 }
 }
