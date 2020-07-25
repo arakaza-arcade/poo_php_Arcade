@@ -2,6 +2,7 @@
 use oop\fruit\Anana\anana;
 use oop\fruit\orange\Orange;
 
+include('fruit/fruit.php');
 include('fruit/anana.php');
 include('fruit/orange.php');
 
